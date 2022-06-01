@@ -1,3 +1,3 @@
-# maharishi_practice_test
+# maharishi_test_practice
 
-This a solution for MIU Test
+This is a solution for MIU Test
